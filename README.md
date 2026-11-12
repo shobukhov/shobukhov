@@ -20,17 +20,13 @@ I enjoy building well-structured software, reasoning about edge cases, and writi
 
 ## Featured projects
 
-### [Queues](https://github.com/livetrau/Queues)
+### [OthelloReversi](https://github.com/shobukhov/OthelloReversi)
 
-A Java library implementing bounded **FIFO, LIFO, priority, and unique job queues**. It supports atomic batch operations, independent copying, and operation tracking through the Decorator pattern. Includes a suite of **147 unit tests**.
+A console-based Othello (Reversi) game in Java, featuring customizable board sizes, move validation, undo functionality, and unit tests.
 
-`Java` · `Gradle` · `JUnit 5` · `AssertJ`
+### [Queues](https://github.com/shobukhov/Queues)
 
-### [TicTacToe](https://github.com/livetrau/TicTacToe)
-
-A Java **Tic-Tac-Toe game engine** with configurable board sizes and K-in-a-row win conditions, move history, undo support, defensive copying, and merging of partial game logs.
-
-`Java` · `Gradle` · `JUnit 5` · `AssertJ`
+A Java job queue library featuring FIFO, LIFO, priority, unique, aging, and round-robin strategies, with metrics and unit tests.
 
 ## Currently focusing on
 
